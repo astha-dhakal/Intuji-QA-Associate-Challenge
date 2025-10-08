@@ -1,0 +1,13 @@
+{
+  "name": "Astha Dhakal",
+  "email": "astha@yopmail.com",
+  "password": "P@ssw0rd",
+  "firstName": "Astha",
+  "lastName": "Dhakal",
+  "address": "123 Australia Street",
+  "country": "Australia",
+  "state": "Test State",
+  "city": "Test City",
+  "zipcode": "123456",
+  "mobile": "9810203040"
+}
