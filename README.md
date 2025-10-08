@@ -13,7 +13,7 @@ The flows automated include Registration, Product Filtering, Cart Management, Ch
 - Visual Studio Code
 
 ## How to Run Tests
-- `bash` -> git clone git clone https://github.com/astha-dhakal/Intuji-QA-Associate-Challenge.git
+- `bash` -> git clone git clone https://github.com/astha-dhakal/Intuji-QA-Associate-Challenge
 
 ||
 /Intuji-QA-Associate-Challenge
